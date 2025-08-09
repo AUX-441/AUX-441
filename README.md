@@ -56,7 +56,7 @@ I am committed to continuous learning and strive to contribute to the tech commu
 - [Instagram](https://www.instagram.com/ehsas6ha)
 - [Telegram](https://t.me/submindf)
 - [GitHub](https://github.com/AUX-441)
-- [WhatsApp][09055069411](https://wa.me/989055069411)
+- [09055069411](https://wa.me/989055069411)
 
 
 ---
