@@ -53,10 +53,10 @@ I am committed to continuous learning and strive to contribute to the tech commu
 ## 📬 Let's Connect
 
 
-- [Instagram](https://www.instagram.com/ehsas6ha)
-- [Telegram](https://t.me/submindf)
-- [GitHub](https://github.com/AUX-441)
-- [09055069411](https://wa.me/989055069411)
+- [Instagram](https://www.instagram.com/ehsas6ha) +
+- [Telegram](https://t.me/submindf) +
+- [GitHub](https://github.com/AUX-441) +
+- [09055069411](https://wa.me/989055069411) +
 
 
 ---
