@@ -1,4 +1,4 @@
-# 🚀 AUX-441 | Full-Stack Developer & Cybersecurity Specialist
+# 🚀 Largo | Full-Stack Developer & Cybersecurity Specialist
 
 ![Profile Header](https://img.shields.io/badge/DEV_SECURITY_AI-Expertise-FF6B35?style=for-the-badge&logo=terminal&logoColor=white)
 
@@ -90,7 +90,7 @@ I am a **versatile technical professional** who bridges the gap between **softwa
 📧 **Email**: [submindf@gmail.com](mailto:submindf@gmail.com)
 
 ### **Online Presence**
-- **GitHub**: [github.com/AUX-441](https://github.com/AUX-441)
+- **GitHub**: [github.com/Largo-m](https://github.com/Largo-m)
 
 ### **Communication**
 - **Professional Inquiries**: Email preferred
